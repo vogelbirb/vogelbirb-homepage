@@ -1,4 +1,5 @@
-<html lang="en-US">
+<!DOCTYPE html>
+<html lang="en">
 
 <head>
   <meta charset="utf-8" />
@@ -11,43 +12,38 @@
       endpoint: "/api/event"
     })
   </script>
-  <link rel="stylesheet" href="css/main.css">
+  <link rel="stylesheet" href="/style.css">
   <meta name="color-scheme" content="dark light">
-  <title>vogelbirb's homepage</title>
+  <title>{% block title %}{% endblock title %}</title>
 </head>
 
 <body>
-  <main>
-    <h1>vogelbirb's homepage <img width="30" src="images/bird_720x.webp"
-        alt="vogelbirb's profile picture: a bird, specifically a green-cheeked conure, with a forest background" />
-    </h1>
-    <section>
-      <h2>Sitemap</h2>
-      <ul>
-        <li><a href="index.html">Home</a></li>
-        <li><a href="games.html">Favorite Games</a></li>
-        <li><a href="sitemap.html">Sitemap</a></li>
-      </ul>
-    </section>
+  <main class="section">
+    <div class="container">
+			<h1 class="title">{% block header %}{% endblock header %}<img width="30" src="/images/bird_720x.webp"
+				alt="vogelbirb's profile picture: a bird, specifically a green-cheeked conure, with a forest background" />
+		</h1>
+		{% block content %} {% endblock content %}
+    </div>
   </main>
   <hr />
   <footer>
     <div class="footer-88x31">
       <a rel="external noreferrer" target="_blank " href="https://ubuntu.com">
-        <img src="images/ubuntu-88x31.gif" alt="This site runs on Ubuntu" title="This site runs on Ubuntu" height="31"
+        <img src="/images/88x31/ubuntu-88x31.gif" alt="This site runs on Ubuntu" title="This site runs on Ubuntu" height="31"
           width="88" />
       </a>
       <a rel="external noreferrer" target="_blank" href="https://www.firefox.com">
-        <img src="images/firefoxnow.gif" alt="Firefox Now" height="31" width="88" />
+        <img src="/images/88x31/firefoxnow.gif" alt="Firefox Now" height="31" width="88" />
       </a>
       <a rel="external noreferrer" target="_blank" href="https://internet.nl/faqs/ipv6/">
-        <img src="images/ipv6.png" alt="This site supports IPv6" title="This site supports IPv6">
+        <img src="/images/88x31/ipv6.png" alt="This site supports IPv6" title="This site supports IPv6">
       </a>
       <a rel="external noreferrer" target="_blank" href="https://grapheneos.org">
-        <img src="images/grapheneos.gif" alt="Graphene OS" height="31" width="88" />
+        <img src="/images/88x31/grapheneos.gif" alt="Graphene OS" height="31" width="88" />
       </a>
       <a rel="external noreferrer" target="_blank" href="https://neovim.io">
-        <img src="images/neovim.gif" alt="Neovim" height="31" width="88" />
+        <img src="/images/88x31/neovim.gif" alt="Neovim" height="31" width="88" />
       </a>
     </div>
     <div>
@@ -60,11 +56,11 @@
         style="max-width: 1em;max-height:1em;margin-left: .2em;">
     </div>
     <nav class="footer-nav">
+      <a href="https://vogelbirb.com/">Home</a>
       <a href="https://github.com/vogelbirb">GitHub</a>
       <a href="mailto:contact@vogelbirb.com">Email</a>
       <a href="https://www.youtube.com/watch?v=dQw4w9WgXc">Funny Bird Videos</a>
       <a href="https://github.com/vogelbirb">Source Code</a>
-      <a href="sitemap.html">Sitemap</a>
       <a href="https://status.vogelbirb.com">Status</a>
     </nav>
   </footer>
