@@ -3,7 +3,7 @@ template = "index.html"
 +++
 Hi, I'm *vogelbirb*.
 
-I'm currently studying to become a systems software engineer, and often write about my progress and various computer systems topics at [vogelbirb.com/blog](@/blog/_index.md)).
+I enjoy all things computer science, and I'm currently studying systems programming in my free time.
 
 The rest of this page is setup in a Q&A format. You can check it out if you would like to learn a bit more about me and my work.
 
@@ -20,17 +20,17 @@ I've had my PC for about 4 years now as of 2026 and it has still been going stro
 You can find the full build [here](https://pcpartpicker.com/b/x9Rv6h).
 </details>
 
-## My Blog
-<details>
-<summary>Why do you write a blog?</summary>
-
-A huge motivation is to be "safe" post-AI. AI generally struggles with solving unique and complex problems. After all, it can't be trained for every situation. It also struggles with system design and architecture, particularly when it involves numerous factors. I imagine, if I become an "expert" in these skills in a specific field, my job should be safe. Right? <small>Right...?</small>
-</details>
-<details>
-<summary>What is this blog about?</summary>
-
-I decided to quit being a generalist in computer science (I've been dabbling various topics for almost 10 years now) and focus on one thing: systems/systems programming.
-</details>
+<!-- ## My Blog -->
+<!-- <details> -->
+<!-- <summary>What is this blog about?</summary> -->
+<!---->
+<!-- I decided to quit being a generalist in computer science (I've been dabbling various topics for almost 10 years now) and focus on one thing: systems programming. -->
+<!-- </details> -->
+<!-- <details> -->
+<!-- <summary>Why do you write a blog?</summary> -->
+<!---->
+<!-- A huge motivation is to be "safe" post-AI. AI generally struggles with solving unique and complex problems. After all, it can't be trained for every situation. It also struggles with system design and architecture, particularly when it involves numerous factors. Also, systems programming sometimes requires extreme precison. I imagine, if I become an "expert" in these skills in a specific field, my potential future job in systems software engineering should be safe. Right? <small>Right...?</small> -->
+<!-- </details> -->
 
 ## Misc.
 <details>
