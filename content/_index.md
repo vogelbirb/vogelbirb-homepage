@@ -3,15 +3,18 @@ template = "index.html"
 +++
 Hi, I'm *vogelbirb*.
 
-I enjoy all things computer science, and I'm currently studying systems programming in my free time.
-
-The rest of this page is setup in a Q&A format. You can check it out if you would like to learn a bit more about me and my work.
+I enjoy all things computer science, and I'm currently studying systems programming in my free time. 
 
 ## Tech
+Besides systems programming, I 
+
 <details>
 <summary>How is this website hosted?</summary>
 
 It's currently running on an Ubuntu 24.04 VM on Oracle Cloud's free tier.
+</details>
+<details>
+<summary> 
 </details>
 <details>
 <summary>What's your PC build?</summary>
