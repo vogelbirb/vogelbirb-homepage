@@ -6,6 +6,8 @@ Hi, I'm *vogelbirb*.
 I enjoy all things computer science, and I'm currently studying systems programming in my free time. I also enjoy playing around with local LLMs and tweaking my homelab.
 
 The rest of this page is setup in a Q&A format. You can check it out if you would like to learn a bit more about me and my work.
+
+Contact - <a href="mailto:contact@vogelbirb.com">contact@vogelbirb.com</a>
 ## Tech
 <details>
 <summary>What do you self-host?</summary>
@@ -39,5 +41,6 @@ I've played quite a few, [see here](@/games/_index.md).
 <details>
 <summary>How can I contact you?</summary>
 
-Email would be the most convenient for me. If you need instant messaging or another form of communication, please request it in your email. You can find it in the footer of this website.
+Email would be the most convenient for me. If you need instant messaging or another form of communication, please request it in your email. I use Signal. 
+You can find my email in the index page.
 </details>

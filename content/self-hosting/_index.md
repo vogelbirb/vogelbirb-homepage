@@ -14,10 +14,8 @@ These are some of the notable services I self-host:
 4. [Immich](https://immich.app/)
 5. [Zola](https://www.getzola.org/)
     - This is what this website currently runs on.
-6. [Plausible Analytics](https://plausible.io/)
-    - Used for analytics on my websites.
-7. [ntfy](https://ntfy.sh/)
-8. [Pelican Panel](https://pelican.dev/)
+6. [ntfy](https://ntfy.sh/)
+7. [Pelican Panel](https://pelican.dev/)
     - I run a few Minecraft servers to play with friends here.
 
 In the future, I plan to run frontends for various social media websites, such as YouTube and Reddit. For YouTube, I'll be hosting either [Individious](https://invidious.io/) or [Piped](https://github.com/TeamPiped/Piped), likely the former, and [Redlib](https://github.com/redlib-org/redlib) for Reddit. Also, I would love to setup some more complex monitoring with Grafana/Prometheus, as I'm simply using [Uptime Kuma](https://uptimekuma.org/).
