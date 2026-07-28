@@ -42,5 +42,6 @@ I've played quite a few, [see here](@/games/_index.md).
 <summary>How can I contact you?</summary>
 
 Email would be the most convenient for me. If you need instant messaging or another form of communication, please request it in your email. I use Signal. 
+
 You can find my email in the index page.
 </details>
