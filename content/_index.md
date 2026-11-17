@@ -28,12 +28,6 @@ You can find the full build [here](https://pcpartpicker.com/b/x9Rv6h).
 
 ## Misc.
 <details>
-<summary>What kind of bird is your profile picture?</summary>
-
-It's a [green-cheeked conure](https://en.wikipedia.org/wiki/Green-cheeked_parakeet).
-Her name is *Fofucha*, which roughly translates from Portuguese to "Cutie."
-</details>
-<details>
 <summary>What games do you play?</summary>
 
 I've played quite a few, [see here](@/games/_index.md).
